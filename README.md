@@ -23,12 +23,13 @@ Let's say **Mohan** is a LinkedIn influencer and he needs help in writing his fu
 ---
 
 ### Output 2  
-<img src="resources/output2.jpg" width="600"/>  
+<img width="1186" height="825" alt="Image" src="https://github.com/user-attachments/assets/01670091-e60a-41f8-97fc-086bb6da5adc" />
 
 ---
 
 ### Output 3  
-<img src="resources/output3.jpg" width="600"/>  
+<img width="1114" height="790" alt="Image" src="https://github.com/user-attachments/assets/6d21c396-95e6-431a-8073-70269aa93054" />
+   
 
 ---
 
