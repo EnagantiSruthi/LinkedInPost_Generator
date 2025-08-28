@@ -18,7 +18,7 @@ Let's say **Mohan** is a LinkedIn influencer and he needs help in writing his fu
 ## Example Outputs  
 
 ### Output 1  
-<img src="resources/output1.jpg" width="600"/>  
+<img width="1230" height="874" alt="Image" src="https://github.com/user-attachments/assets/f30f183c-fb67-447a-bc21-2da54d128145" />  
 
 ---
 
@@ -47,3 +47,8 @@ Let's say **Mohan** is a LinkedIn influencer and he needs help in writing his fu
 2. Install dependencies:  
    ```bash
    pip install -r requirements.txt
+
+3. Run the streamlit app:
+   ```commandline
+   streamlit run main.py
+   ```
