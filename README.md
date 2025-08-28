@@ -6,7 +6,7 @@ This project is a **Generative AI-powered tool** that helps LinkedIn influencers
 
 ## Project Overview  
 
-Ananya – Startup Founder
+Let's say **Ananya** is a Startup Founder and he needs help in writing his future posts.  
 - Ananya can **upload her past LinkedIn posts** into the tool.  
 - The tool will **analyze her writing style, tone, and common themes** like entrepreneurship, product launches, or leadership.  
 - Ananya can then **choose a theme (e.g., "Leadership"), preferred length, and language**.  
