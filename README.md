@@ -6,13 +6,15 @@ This project is a **Generative AI-powered tool** that helps LinkedIn influencers
 
 ## Project Overview  
 
-Let's say **Mohan** is a LinkedIn influencer and he needs help in writing his future posts.  
+Let's say Ananya is a startup founder who regularly shares updates about her company on LinkedIn.
 
-- He can **feed his past LinkedIn posts** to this tool.  
-- The tool will **extract key topics, length, and language**.  
-- Mohan can then **select topic, length, and language** and click on the **Generate** button.  
-- The tool will create a **new LinkedIn post** that matches **his own writing style**.  
+She can upload her past LinkedIn posts into the tool.
 
+The tool will analyze her writing style, tone, and common themes like entrepreneurship, product launches, or leadership.
+
+Ananya can then choose a theme (e.g., "Leadership"), preferred length, and language.
+
+With one click on the Generate button, the tool will create a fresh LinkedIn post that feels authentic and aligned with her personal voice and style.
 ---
 
 ## Example Outputs  
@@ -25,9 +27,7 @@ Let's say **Mohan** is a LinkedIn influencer and he needs help in writing his fu
 ### Output 2  
 <img width="1186" height="825" alt="Image" src="https://github.com/user-attachments/assets/01670091-e60a-41f8-97fc-086bb6da5adc" />
 
----
-
-### Output 3  
+--- 
 <img width="1114" height="790" alt="Image" src="https://github.com/user-attachments/assets/6d21c396-95e6-431a-8073-70269aa93054" />
    
 
